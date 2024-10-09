@@ -104,7 +104,6 @@ public class TodoList {
             str += "\n" + task.getName() + "\t" + task.getUrgency();
         }
 
-
         return str;
         
     }
